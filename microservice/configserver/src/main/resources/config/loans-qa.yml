@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related QA APIs"
+  contactDetails:
+    name: "nampp1 - QA Lead"
+    email: "nam.pp204843.1@sis.hust.edu.vn"
+  onCallSupport:
+    - (+84) 265376512
+    - (+84) 734837198

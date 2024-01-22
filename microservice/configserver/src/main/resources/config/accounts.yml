@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to DemoBank accounts related local APIs "
+  contactDetails:
+    name: "nampp - Developer"
+    email: "nam.pp204843@sis.hust.edu.vn"
+  onCallSupport:
+    - (+84) 123456789
+    - (+84) 987654321

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to DemoBank accounts related prod APIs"
+  contactDetails:
+    name: "nampp2 - Product Owner"
+    email: "nam.pp204843.2@sis.hust.edu.vn"
+  onCallSupport:
+    - (+84) 392482912
+    - (+84) 203038498
