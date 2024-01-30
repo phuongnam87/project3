@@ -102,7 +102,7 @@
 				<version>3.4.0</version>
 				<configuration>
 					<to>
-						<image>child87/${project.artifactId}:p3</image>
+						<image>nampp87/${project.artifactId}:p3</image>
 					</to>
 				</configuration>
 			</plugin>
